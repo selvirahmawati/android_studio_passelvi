@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_chef.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_dokter.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_fotochef.xml" value="0.18" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_fotodokter.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_fotofotografer.xml" value="0.14" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_fotograper.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_fotopolisi.xml" value="0.18" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_main.xml" value="0.14488348530901723" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_nasiliwet.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/activity_polisi.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/cheff.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/dokter.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/fotografer.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/Client RPL/AndroidStudioProjects/PasSelvi/app/src/main/res/layout/polisi.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
